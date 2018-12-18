@@ -1,0 +1,5 @@
+atu/nbproject/
+/nbproject/*
+/protected/tests/WebTestCase.php
+/images/*
+application/third_party/mpdf/*
